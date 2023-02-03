@@ -1,5 +1,5 @@
 # flutter_parallax_effect
-
+https://cdn.dribbble.com/users/912634/screenshots/4460149/media/2b8dd0ab8bd4d39e8aaff8f787d533d5.gif
 A new Flutter project.
 
 ## Getting Started
